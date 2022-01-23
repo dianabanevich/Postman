@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "запрос 1",
+			"name": "/get_method",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -38,7 +38,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 2",
+			"name": "/user_info_3",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -80,7 +80,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 3",
+			"name": "/object_info_1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -139,7 +139,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 4",
+			"name": "/object_info_2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -198,7 +198,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 5",
+			"name": "/object_info_3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -257,7 +257,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 6",
+			"name": "/object_info_4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -316,7 +316,7 @@
 			"response": []
 		},
 		{
-			"name": "запрос 7",
+			"name": "/user_info_2",
 			"request": {
 				"method": "POST",
 				"header": [],
